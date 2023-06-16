@@ -6,7 +6,7 @@ POST http://localhost:8080/wsec1e1
    <soapenv:Header/>
    <soapenv:Body>
       <gs:getDayRequest>
-         <gs:name>Martes</gs:name>
+         <gs:name>Sabado</gs:name>
       </gs:getDayRequest>
    </soapenv:Body>
 </soapenv:Envelope>
